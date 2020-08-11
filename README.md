@@ -1,2 +1,2 @@
 # Introduction 
-Third party libraries: pixman
+Third party libraries: cryptopp
