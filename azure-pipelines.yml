@@ -13,3 +13,6 @@ extends:
     package_version: 8.9.0
     source_repository: public-conan-center
     destination_repository: ccdc-3rdparty-conan
+    build_types:
+      - Release
+      - Debug
